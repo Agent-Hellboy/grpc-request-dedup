@@ -7,7 +7,7 @@ This project provides a gRPC middleware for request deduplication, helping achie
 - Intercepts gRPC unary calls to detect and handle duplicate requests
 - Uses request IDs to uniquely identify each request
 - Caches responses for duplicate requests, reducing unnecessary processing
-- Helps achieve idempotency in distributed systems
+- Can helps achieve idempotency in distributed systems if I ever make it useable
 
 ## How It Works
 
