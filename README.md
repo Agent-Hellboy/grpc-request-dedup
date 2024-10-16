@@ -20,7 +20,7 @@ This project provides a gRPC middleware for request deduplication, helping achie
 
 - **Idempotency**: Ensures that multiple identical requests produce the same result.
 - **Efficiency**: Reduces server load by avoiding redundant processing of duplicate requests.
-- **Consistency**: Helps maintain data consistency in distributed systems.
+- **Consistency**: Help maintain data consistency 
 
 ## Use Cases
 
