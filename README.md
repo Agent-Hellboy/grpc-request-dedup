@@ -1,7 +1,5 @@
 # grpc-request-dedup
 
-# gRPC Request Deduplication
-
 This project provides a gRPC middleware for request deduplication, helping achieve idempotency in gRPC-based systems. It's designed as a Proof of Concept (PoC) to demonstrate how to handle duplicate requests.
 
 ## Features
